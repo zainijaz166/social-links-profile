@@ -14,4 +14,4 @@ Welcome to the Social Links Profile repository! This project is a personal profi
 - HTML5
 - CSS3 (Flexbox & CSS Variables)
 
-## Live-Link 🔗 :
+## Live-Link 🔗 :https://zainijaz166.github.io/social-links-profile/
